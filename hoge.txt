@@ -1,3 +1,4 @@
 2hoge1
 hige
 fuga
+hage
