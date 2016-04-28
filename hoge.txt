@@ -1,3 +1,3 @@
 2hoge1
 hige
-fuga
+1fuga
