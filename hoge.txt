@@ -1,4 +1,4 @@
 2hoge1
 hige
-fuga
+2fuga
 hage
