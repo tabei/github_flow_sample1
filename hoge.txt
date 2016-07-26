@@ -1,4 +1,6 @@
-2hoge1
+3hoge1
 hige
 2fuga
+hage4
 hage
+hege
